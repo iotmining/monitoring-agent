@@ -1,6 +1,0 @@
-[submodule "eureka-server"]
-	path = eureka-server
-	url = https://github.com/IotMining/eureka-server.git
-[submodule "config-server"]
-	path = config-server
-	url = https://github.com/IotMining/config-server.git
